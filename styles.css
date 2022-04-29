@@ -13,7 +13,7 @@ background-color: red;
 h2 {border-bottom: 2px dotted #00FFFF;
 }
 p {font-family: "Lucida Console", "Courier New", monospace}
-li {font-family: "Lucida Console", "Courier New", monospace}
+ul {font-family: "Lucida Console", "Courier New", monospace}
 .myDiv {
 position: fixed;
 right: 0;
