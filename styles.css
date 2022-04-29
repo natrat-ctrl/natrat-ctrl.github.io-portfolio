@@ -16,7 +16,9 @@ border-radius: 5px;
 padding: 5px;
 background-color:#48D1CC;
 }
-h2 {border-bottom: 2px dotted #00FFFF;}
+h2 {border-bottom: 2px dotted #00FFFF;
+text-transform: capitalize;
+}
 .myDiv {
 position: fixed;
 right: 5;
