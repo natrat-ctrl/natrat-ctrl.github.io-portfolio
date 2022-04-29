@@ -10,7 +10,7 @@ padding-bottom: 2px;
 padding-left: 2px;
 }
 a:hover, a:active {
-background-color: violet;
+background-color: red;
 }
 border-radius: 5px;
 padding: 5px;
@@ -19,7 +19,7 @@ background-color:#48D1CC;
 h2 {border-bottom: 2px dotted #00CED1}
 .myDiv {
 position: fixed;
-right: 0;
-top: 0;
+right: 2;
+top: 2;
 background-color: #008080;
 }
