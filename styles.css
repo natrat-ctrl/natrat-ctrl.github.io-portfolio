@@ -4,13 +4,11 @@ h1 {border: 2px solid #00CED1;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
 a {border: 2px solid #C71585;
+border-radius: 5px;
+padding: 5px;
 }
 a:hover, a:active {
 background-color: red;
-}
-border-radius: 5px;
-padding: 5px;
-background-color:#48D1CC;
 }
 h2 {border-bottom: 2px dotted #00FFFF;
 }
