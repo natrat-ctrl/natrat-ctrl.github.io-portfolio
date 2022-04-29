@@ -4,9 +4,9 @@ h1 {border: 2px solid #00CED1;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
 a {border: 2px solid #00CED1;
-border-radius: 12px;
+border-radius: 5px;
 padding: 5px;
-background-color: #00CED1;
+background-color:#48D1CC;
 }
 h2 {border-bottom: 2px dotted #00CED1}
 .myDiv {
@@ -14,5 +14,4 @@ position: fixed;
 right: 0;
 top: 0;
 width: 260px;
-border: 3px solid #73AD21;
 }
