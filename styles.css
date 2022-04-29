@@ -3,18 +3,9 @@ body {background-color: #F0F8FF;
 h1 {border: 2px solid #00CED1;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
-a {border: 2px solid #C71585;}
-a:link, a:visited {
-  background-color: #7FFFD4;
-  color:#696969;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
+a {border: 2px solid #C71585;
 a:hover, a:active {
-  background-color: red;
+background-color: red;
 }
 border-radius: 5px;
 padding: 5px;
