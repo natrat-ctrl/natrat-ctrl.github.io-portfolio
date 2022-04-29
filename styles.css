@@ -1,13 +1,15 @@
-h1 {border: 2px solid #ff0000;
+body {background-color: #F0F8FF;
+}
+h1 {border: 2px solid #00CED1;
+background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 padding: 5px;}
-a {border: 2px solid #ff0000;
+a {border: 2px solid #00CED1;
 border-radius: 12px;
 padding: 5px;
-background-color: #008B8B;
+background-color: #00CED1;
 }
-h2 {border-bottom: 2px dotted #ff0000}
+h2 {border-bottom: 2px dotted #00CED1}
 .myDiv {
-background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
 position: fixed;
 right: 0;
 top: 0;
