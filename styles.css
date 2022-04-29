@@ -16,7 +16,7 @@ background-color:#48D1CC;
 h2 {border-bottom: 2px dotted #00CED1}
 .myDiv {
 position: fixed;
-right: 0;
-top: 0;
+right: 20;
+top: 20;
 background-color: #008080;
 }
