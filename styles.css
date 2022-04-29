@@ -17,11 +17,11 @@ padding: 5px;
 background-color:#48D1CC;
 }
 h2 {border-bottom: 2px dotted #00FFFF;
-text-transform: capitalize;
 }
+p {font-family: "Lucida Console", "Courier New", monospace}
 .myDiv {
 position: fixed;
-right: 5;
-top: 5;
+right: 0;
+top: 0;
 background-color: #008080;
 }
