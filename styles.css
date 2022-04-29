@@ -7,7 +7,7 @@ a {border: 2px solid #C71585;
 padding: width: 100px;
   padding: 10px;
 a:hover, a:active {
-background-color: red;
+background-color: #FFFAF0;
 }
 border-radius: 5px;
 padding: 5px;
@@ -18,5 +18,6 @@ h2 {border-bottom: 2px dotted #00CED1}
 position: fixed;
 right: 20;
 top: 20;
+margin: 20px 20px 20px 20px;
 background-color: #008080;
 }
