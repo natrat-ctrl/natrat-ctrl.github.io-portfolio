@@ -2,10 +2,10 @@ body {background-color: #F0F8FF;
 }
 h1 {border: 2px solid #00CED1;
 background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
-padding: 5px;}
+padding: 10x;}
 a {border: 2px solid #C71585;
-border-radius: 5px;
-padding: 5px;
+border-radius: 10px;
+padding: 10px;
 }
 a:hover, a:active {
 background-color: red;
@@ -14,9 +14,13 @@ h2 {border-bottom: 2px dotted #00FFFF;
 }
 p {font-family: "Lucida Console", "Courier New", monospace}
 ul {font-family: "Lucida Console", "Courier New", monospace}
-.myDiv {
+.home {
 position: fixed;
+padding: 10px;
 right: 0;
 top: 0;
 background-color: #008080;
+}
+.interests {
+padding: 10px
 }
