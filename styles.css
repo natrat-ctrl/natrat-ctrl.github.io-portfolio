@@ -18,8 +18,8 @@ p {font-family: "Lucida Console", "Courier New", monospace}
 ul {font-family: "Lucida Console", "Courier New", monospace}
 .home {
 position: fixed;
-right: 10;
-top: 10;
+right: 0;
+top: 0;
 background-color: #008080;
 }
 .interests {
