@@ -17,9 +17,11 @@ margin: 10px;
 p {font-family: "Lucida Console", "Courier New", monospace}
 ul {font-family: "Lucida Console", "Courier New", monospace}
 .home {
-position: static;
+position: fixed;
 right: 10;
 top: 10;
+padding: 5px;
+margin: 5px;
 background-color: #008080;
 }
 .interests {
